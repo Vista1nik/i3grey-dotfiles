@@ -1,0 +1,6 @@
+[options]
+font = Inconsolata for powerline Bold 11
+font = Inconsolata Bold 12
+
+[colors]
+background = rgba(50, 50, 50, 0.5)
